@@ -1,0 +1,51 @@
+form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+input {
+  width: 100%;
+  height: 42px;
+  padding-left: 10px;
+  border: 2px solid greenyellow;
+  border-radius: 5px;
+  outline: none;
+  background: lightgreen;
+  color: green;
+}
+.button-link{
+  height: 25px;
+}
+ul{
+ width: 300px;
+ margin: 0 auto;
+ text-align: center
+}
+a{
+  color: yellow;
+  height: 120px;
+}
+.movielist{
+  height: 120px;
+  border: 3px solid greenyellow;
+  border-radius: 15px;
+  width: 210px;
+  margin-bottom: 5px;
+}
+img{
+  border: 3px solid greenyellow;
+  border-radius: 15px;
+  margin-left: 5px;
+}
+li{
+  color: lightgreen;
+}
+video{
+  border: 4px greenyellow;
+  color: white;
+}
+html{
+  cursor: url('https://snipp.ru/demo/712/pointer-1.cur') 4 1, pointer;
+}
+

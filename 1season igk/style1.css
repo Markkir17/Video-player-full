@@ -1,0 +1,12 @@
+html{background-image: url(../mediafiles/paint_grunge_green_124502_2560x1600.jpg);color: white; background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+text-shadow: -1px -1px 0 #000,
+0px -1px 0 #000,
+1px -1px 0 #000,
+1px 0px 0 #000,
+1px 1px 0 #000,
+0px 1px 0 #000,
+-1px 1px 0 #000,
+-1px 0px 0 #000;}
